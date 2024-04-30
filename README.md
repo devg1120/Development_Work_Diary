@@ -1,7 +1,7 @@
 #  Development work diary
 
 <!-- TO DO: add more details about me later -->
-
+---
 
 <details>
 <summary>My top languages</summary>
@@ -13,7 +13,10 @@
 |     3| SQL       |
 
 </details>
+<!---------------------------------------------------->
 
+<details>
+<summary>gswebssh</summary>
 ##  gswebssh
 -  pytyon based web
 -  remote ssh
@@ -27,7 +30,8 @@
 
 ###  golden-layout-vite3-UIkit/
 > goldem-layout     UIkit dashboard      2024/04/31
+</details>
+<!---------------------------------------------------->
 
-----
 
 
