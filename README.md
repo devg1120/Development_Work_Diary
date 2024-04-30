@@ -1,9 +1,9 @@
-#  Development work diary
 
 <!-- TO DO: add more details about me later -->
 - Table of Content
 {:toc}
 
+#  Development work diary
 <details  open>
 <summary>MarkDown languages</summary>
 
