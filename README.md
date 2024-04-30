@@ -23,6 +23,7 @@
 
 これは<span style="color: red; ">赤文字</span>です
 
+これは `code` です
 
 ```
 from webssh import handler
