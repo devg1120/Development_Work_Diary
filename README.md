@@ -3,7 +3,7 @@
 <!-- TO DO: add more details about me later -->
 ---
 
-<details>
+<details  open>
 <summary>My top languages</summary>
 
 | Rank | Languages |
@@ -27,6 +27,7 @@ from webssh.settings import (
 
 > indent statements
 > OK
+> 
 
 
 
