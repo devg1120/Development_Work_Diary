@@ -48,6 +48,8 @@ A footnote can also have multiple lines[^2].
 これは ~~訂正線~~です。
 これは<u>下線</u>です。
 
+[tex colors](https://gist.github.com/luigiMinardi/4574708d404cdf4fe0da7ac6fe2314db)
+
 $\color{red}{\textsf{lorem ipsum}}$	
 $\color{#f00}{\textsf{lorem ipsum}}$	
 
