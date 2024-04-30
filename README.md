@@ -7,6 +7,13 @@
 | TD | TD | TD |
 | TD | TD | TD |
 
+```[tasklist]
+## Tasks
+- [ ] #1
+- [ ] https://github.com/jlord/sheetsee.js/issues/26
+- [ ] task
+- [x] done task
+```
 
 #  Development work diary
 <details  open>
