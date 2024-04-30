@@ -26,12 +26,11 @@ from webssh.settings import (
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 > indent statements
-> OK
+> OK DE
 > 
 
 
-
-
+---
 </details>
 
 > [!IMPORTANT]
