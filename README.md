@@ -1,7 +1,16 @@
-
-<!-- TO DO: add more details about me later -->
 - Table of Content
 {:toc}
+
+# Lorem ipsum
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+## Ut enim ad minim veriam
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+<!-- TO DO: add more details about me later -->
+
 
 #  Development work diary
 <details  open>
