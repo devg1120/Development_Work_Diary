@@ -1,6 +1,12 @@
 
 <!-- TO DO: add more details about me later -->
 
+### HISTORY
+| MM/DD | TARGET |　DETAIL |
+| ---- | ---- | ----|
+| TD | TD | TD |
+| TD | TD | TD |
+
 
 #  Development work diary
 <details  open>
