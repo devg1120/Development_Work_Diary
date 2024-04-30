@@ -76,6 +76,10 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 >
 
 
+The background color is #ffffff for light mode and #000000 for dark mode.
+
+
+
 > [!INFOMATION]
 > インフォメーション
 > infoは省略可能です。
