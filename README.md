@@ -14,6 +14,9 @@
 |     2| Python    |
 |     3| SQL       |
 
+これは<span style="color: red; ">赤文字</span>です
+
+
 ```
 from webssh import handler
 from webssh.handler import IndexHandler, WsockHandler, NotFoundHandler
