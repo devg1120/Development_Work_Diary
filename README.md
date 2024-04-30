@@ -22,6 +22,10 @@
 これは<u>下線</u>です。
 
 
+> これは引用です。
+> これは引用です。これは引用です。
+> 
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| JavaScript|
@@ -47,9 +51,7 @@ from webssh.settings import (
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-> indent statements
-> OK DE
-> 
+
 
 1. 番号リストA
 1. 番号リストB
