@@ -1,5 +1,6 @@
 
 <!-- TO DO: add more details about me later -->
+$\color{red}{\textsf{lorem ipsum}}$	
 
 ### HISTORY
 | MM/DD | TARGET |　DETAIL |
