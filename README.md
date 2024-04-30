@@ -68,6 +68,20 @@ $\color{green}{\textsf{lorem ipsum}}$
 $\Huge{\textsf{lorem ipsum}}$	
 
 
+## Font Styles
+
+To change the font style you need to add suffixes to the `\text`.  
+
+|suffix|   syntax  |          command         |          result         |
+| ---  |    ---    |            ---           |           ---           |
+`none` |  `\text`  |  `$\text{lorem ipsum}$`  | $\text{lorem ipsum}$
+`\rm`  | `\textrm` | `$\textrm{lorem ipsum}$` | $\textrm{lorem ipsum}$
+`\sf`  | `\textsf` | `$\textsf{lorem ipsum}$` | $\textsf{lorem ipsum}$
+`\bf`  | `\textbf` | `$\textbf{lorem ipsum}$` | $\textbf{lorem ipsum}$
+`\up`  | `\textup` | `$\textup{lorem ipsum}$` | $\textup{lorem ipsum}$
+`\tt`  | `\texttt` | `$\texttt{lorem ipsum}$` | $\texttt{lorem ipsum}$
+
+
 ### Table with some color examples
 
 | $\color{black}{\textsf{Black}}$ |  $\color{blue}{\textsf{Blue}}$ | $\color{brown}{\textsf{Brown}}$ | $\color{darkgray}{\textsf{Dark Gray}}$  | $\color{gray}{\textsf{Gray}}$ | 
