@@ -1,10 +1,11 @@
 #  Development work diary
 
 <!-- TO DO: add more details about me later -->
----
+
 
 <details  open>
 <summary>My top languages</summary>
+
 ---
     
 | Rank | Languages |
