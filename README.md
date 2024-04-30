@@ -62,20 +62,7 @@ from webssh.settings import (
 1. 番号リストC
 
 
-:::note info
-インフォメーション
-infoは省略可能です。
-:::
 
-:::note warn
-警告
-○○に注意してください。
-:::
-
-:::note alert
-より強い警告
-○○しないでください。
-:::
 
 
 
@@ -87,20 +74,11 @@ infoは省略可能です。
 >
 
 
-:::note info
-インフォメーション
-infoは省略可能です。
-:::
+> [!INFOMATION]
+> インフォメーション
+> infoは省略可能です。
+> 
 
-:::note warn
-警告
-○○に注意してください。
-:::
-
-:::note alert
-より強い警告
-○○しないでください。
-:::
 
 これは<span style="color: red; ">赤文字</span>です
 
