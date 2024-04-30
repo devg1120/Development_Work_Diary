@@ -13,8 +13,8 @@
 |     3| SQL       |
 
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+ > [!IMPORTANT]
+ > Key information users need to know to achieve their goal.
 
 
 
