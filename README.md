@@ -40,6 +40,9 @@ from webssh.settings import (
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
+>
+
+これは<span style="color: red; ">赤文字</span>です
 
 <!---------------------------------------------------->
 
