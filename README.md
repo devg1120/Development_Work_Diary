@@ -63,6 +63,8 @@ from webssh.settings import (
 
 
 
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 
 
 
