@@ -60,7 +60,25 @@ from webssh.settings import (
 1. 番号リストB-1
 1. 番号リストB-2
 1. 番号リストC
-   
+
+
+:::note info
+インフォメーション
+infoは省略可能です。
+:::
+
+:::note warn
+警告
+○○に注意してください。
+:::
+
+:::note alert
+より強い警告
+○○しないでください。
+:::
+
+
+
 ---
 </details>
 
