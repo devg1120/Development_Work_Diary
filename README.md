@@ -56,6 +56,9 @@ from webssh.settings import (
     get_ssl_context, get_server_settings, check_encoding_setting
 )
 ```
+```python
+print("Hello World")
+```
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
