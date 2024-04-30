@@ -36,6 +36,8 @@
 
 これは<span style="color: red; ">赤文字</span>です	
 
+これは<span style="color: gray; ">赤文字</span>です	
+
 これは `code` です
 
 ```
