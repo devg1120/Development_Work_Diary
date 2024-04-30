@@ -65,6 +65,9 @@ $\color{blue}{\textsf{lorem ipsum}}$
 
 $\color{green}{\textsf{lorem ipsum}}$	
 
+$\Huge{\textsf{lorem ipsum}}$	
+
+
 > これは引用です。
 > これは引用です。これは引用です。
 > 
