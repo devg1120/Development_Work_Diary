@@ -68,6 +68,30 @@ $\color{green}{\textsf{lorem ipsum}}$
 $\Huge{\textsf{lorem ipsum}}$	
 
 
+### Table with some color examples
+
+| $\color{black}{\textsf{Black}}$ |  $\color{blue}{\textsf{Blue}}$ | $\color{brown}{\textsf{Brown}}$ | $\color{darkgray}{\textsf{Dark Gray}}$  | $\color{gray}{\textsf{Gray}}$ | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | 
+| $\color{lightgray}{\textsf{Light Gray}}$ |  $\color{green}{\textsf{Green}}$ | $\color{lightblue}{\textsf{Light Blue}}$ | $\color{lime}{\textsf{Lime}}$  | $\color{magenta}{\textsf{Magenta}}$ |
+| $\color{olive}{\textsf{Olive}}$ |  $\color{orange}{\textsf{Orange}}$ | $\color{pink}{\textsf{Pink}}$ | $\color{purple}{\textsf{Purple}}$  | $\color{red}{\textsf{Red}}$ | 
+| $\color{teal}{\textsf{Teal}}$ |  $\color{violet}{\textsf{Violet}}$ | $\color{white}{\textsf{White}}$ | $\color{yellow}{\textsf{Yellow}}$  | $\color{BurntOrange}{\textsf{Burnt Orange}}$ |
+
+
+## Font Sizes
+
+|                command              |                result              |
+|                  ---                |                 ---                |
+`$\Huge{\textsf{lorem ipsum}}$`       | $\Huge{\textsf{lorem ipsum}}$
+`$\huge{\textsf{lorem ipsum}}$`       | $\huge{\textsf{lorem ipsum}}$
+`$\LARGE{\textsf{lorem ipsum}}$`      | $\LARGE{\textsf{lorem ipsum}}$
+`$\Large{\textsf{lorem ipsum}}$`      | $\Large{\textsf{lorem ipsum}}$
+`$\large{\textsf{lorem ipsum}}$`      | $\large{\textsf{lorem ipsum}}$
+`$\normalsize{\textsf{lorem ipsum}}$` | $\normalsize{\textsf{lorem ipsum}}$
+`$\small{\textsf{lorem ipsum}}$`      | $\small{\textsf{lorem ipsum}}$
+`$\scriptsize{\textsf{lorem ipsum}}$` | $\scriptsize{\textsf{lorem ipsum}}$
+`$\tiny{\textsf{lorem ipsum}}$`       | $\tiny{\textsf{lorem ipsum}}$
+
+
 > これは引用です。
 > これは引用です。これは引用です。
 > 
