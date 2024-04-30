@@ -1,5 +1,7 @@
 #  Development work diary
 
+<!-- TO DO: add more details about me later -->
+
 ##  gswebssh
 -  pytyon based web
 -  remote ssh
