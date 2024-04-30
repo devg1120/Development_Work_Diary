@@ -2,6 +2,18 @@
 
 <!-- TO DO: add more details about me later -->
 
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+
 ##  gswebssh
 -  pytyon based web
 -  remote ssh
