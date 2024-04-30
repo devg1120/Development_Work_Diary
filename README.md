@@ -1,6 +1,5 @@
 
 <!-- TO DO: add more details about me later -->
-$\color{red}{\textsf{lorem ipsum}}$	
 
 ### HISTORY
 | MM/DD | TARGET |　DETAIL |
@@ -49,8 +48,16 @@ A footnote can also have multiple lines[^2].
 これは ~~訂正線~~です。
 これは<u>下線</u>です。
 
-<font color="#FF0000">赤く表示されます</font>
+$\color{red}{\textsf{lorem ipsum}}$	
+$\color{#f00}{\textsf{lorem ipsum}}$	
+$\color{rgb(255,0,0)}{\textsf{lorem ipsum}}$	
+$\color{rgba(255,0,0, 0.4)}{\textsf{lorem ipsum}}$	
+$\color{hsl(0,100%,50%)}{\textsf{lorem ipsum}}$	
+$\color{hsla(0,100%,50%, 0.4)}{\textsf{lorem ipsum}}$	
+$\textcolor{red}{\textsf{lorem ipsum}}$
 
+$\color{brue}{\textsf{lorem ipsum}}$	
+$\color{green}{\textsf{lorem ipsum}}$	
 
 > これは引用です。
 > これは引用です。これは引用です。
